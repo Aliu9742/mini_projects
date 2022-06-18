@@ -6,5 +6,5 @@ The user can provide an initial wikipedia page with -i flag in command prompt. D
 ## int to string
 Given an integer between -9999 to 9999, this script outputs the number's name as a string. Use -n flag in command line to give integer
 
-##CracklePop
+## CracklePop
 Made for Recurse Center application.
